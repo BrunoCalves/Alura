@@ -13,11 +13,17 @@ public class Main {
                
                ****************************************
                 """;
-
         System.out.println(textoMenu);
     }
     public static void main(String[] args) {
         System.out.println("Inciando o projeto conta bancaria!");
-        menu();
+        Conta conta = new Conta();
+
+        System.out.println(conta.getSaldo());
+        conta.setSaldo(2.50);
+        System.out.println(conta.getSaldo());
+
+
+
     }
 }
