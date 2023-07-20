@@ -4,7 +4,7 @@
 
 <h2><br>Atualmente estou realizando os seguintes cursos.</h2>
     
-  <li>Formação: Java com orientação a objetos</li>
+  <li>Formação: <a href=“https://github.com/BrunoCalves/Alura/tree/main/JAVA“>Java com orientação a objetos</a></li>
   <li>Curso: Git e Github: Repositório Commit e versões</li>
 
 
